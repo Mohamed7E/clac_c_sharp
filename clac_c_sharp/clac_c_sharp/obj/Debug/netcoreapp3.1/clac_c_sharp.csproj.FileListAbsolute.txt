@@ -1,0 +1,16 @@
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.csproj.AssemblyReference.cache
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.Form1.resources
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.csproj.GenerateResource.cache
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.AssemblyInfoInputs.cache
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.AssemblyInfo.cs
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.csproj.CoreCompileInputs.cache
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.exe
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.deps.json
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.runtimeconfig.json
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.runtimeconfig.dev.json
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.dll
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\bin\Debug\netcoreapp3.1\clac_c_sharp.pdb
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.dll
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.pdb
+G:\learn flutter\not\clac_c_sharp\clac_c_sharp\obj\Debug\netcoreapp3.1\clac_c_sharp.genruntimeconfig.cache
